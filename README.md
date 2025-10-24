@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="./SyntaxSociety.png" alt="Syntax Society Logo" width="200" />
 </p>
@@ -172,5 +171,3 @@ Together, we’re building something powerful — **by the community, for the co
 > 💬 “Collaboration breeds innovation — let’s make great syntax together.”
 
 **— The Syntax Society Team**
-
-```
