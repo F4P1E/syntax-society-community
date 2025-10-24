@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="./SyntaxSociety.png" alt="Syntax Society Logo" width="200" />
-</p>
-
 <h1 align="center">Syntax-Society-Community</h1>
 
 <p align="center">
